@@ -1,0 +1,5 @@
+git config --global user.name "XXX"
+git config --global user.email XXX@gmail.com
+git config --global core.autocrlf false
+git clone 
+
